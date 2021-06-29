@@ -1,7 +1,5 @@
 # control-panel-for-Robot-Arm-Robot-base
 
-# control-panel-for-Robot-Arm
-
 
 -  (HTML + CSS + JS ) تم تصميم واجهة تحكم لتحكم بدرجة كل محرك بالروبوت الذراع وايضا تشغيل واطفاء الروبوت و تحديد اتجاه روبوت القاعدة ، تم تصميم الواجهة باستخدام 
 -  index.php :ملف الواجهة 
